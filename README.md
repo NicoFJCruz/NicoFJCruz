@@ -1,4 +1,5 @@
-### Hi there 👋
+### <h1 align="center">Hola 👋, soy Nico!</h1>
+<h3 align="center">Un developer fullstack de Argentina</h3>
 
 <!--
 **NicoFJCruz/NicoFJCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
