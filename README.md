@@ -1,4 +1,4 @@
-![Posrtada](https://media.licdn.com/dms/image/D4E16AQEk0pjvhiwmSg/profile-displaybackgroundimage-shrink_450_1400/0/1682981116075?e=1691020800&v=beta&t=r1ygrfO8xQuOpZMDj9fN9VbH00Uwc9OWsPGHMAkTlzY)
+![Posrtada](https://media.licdn.com/dms/image/D4E16AQEk0pjvhiwmSg/profile-displaybackgroundimage-shrink_350_1400/0/1682981116075?e=1691020800&v=beta&t=r1ygrfO8xQuOpZMDj9fN9VbH00Uwc9OWsPGHMAkTlzY)
 
 
 ### <h1 align="center">Hello there 👋, I'm Nicolas!</h1>
