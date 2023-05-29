@@ -1,11 +1,10 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQEk0pjvhiwmSg/profile-displaybackgroundimage-shrink_350_1400/0/1682981116075?e=1691020800&v=beta&t=r1ygrfO8xQuOpZMDj9fN9VbH00Uwc9OWsPGHMAkTlzY" alt="Portada">
 
 <h1 align="center">Hello there 👋, I'm Nicolás!</h1>
-<h3 align="center">A Fullstack developer from Argentina</h3>
 
 # <img src="https://icon-library.com/images/person-icon-gif/person-icon-gif-1.jpg" width="35"><b> About me </b> 
 
-I'm a Fullstack Developer from Argentina.
+<h3> I'm a Fullstack Developer from Argentina.</h3>
 
 I graduated from Coding Bootcamp of Plataforma 5, where I completed over 800 hours of intensive training and worked on challenging projets, such as an web ap to to a performance feedbach for GlobalsNews Group. Also, I have studies in Electromechanical Engineering. 
 
@@ -15,7 +14,7 @@ If you want to know more about  do not hesitate to contact me.
 
 # <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif?cid=6c09b95273ph4qc007uru0mjrt5xny6r76o3kj1b5vnvsxmk&ep=v1_stickers_related&rid=giphy.gif" width="35"><b> Tech Stack </b> 
 
-### Languages
+## Languages
    <div align="center">
         <p align="center">
           <table>
@@ -37,7 +36,7 @@ If you want to know more about  do not hesitate to contact me.
         </p>
       </div>
 
-### FrontEnd
+## FrontEnd
 <div align="center">
         <p align="center">
           <table>
@@ -83,7 +82,7 @@ If you want to know more about  do not hesitate to contact me.
         </p>
       </div>
       
-  ### Backend
+  ## Backend
   <div align="center">
         <p align="center">
           <table>
@@ -105,7 +104,7 @@ If you want to know more about  do not hesitate to contact me.
         </p>
       </div>
 
-### Data Base
+## Data Base
 <div align="center">
         <p align="center">
           <table>
@@ -123,7 +122,7 @@ If you want to know more about  do not hesitate to contact me.
         </p>
       </div>
         
- ### Others
+ ## Others
 <div align="center">
         <p align="center">
           <table>
