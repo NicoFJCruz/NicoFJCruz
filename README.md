@@ -161,11 +161,9 @@ If you want to know more about  do not hesitate to contact me.
                      <img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif?cid=ecf05e47ycmqbjfd98vll28lev80hn8j5u5h4fbx8y066h9j&rid=giphy.gif" alt="Telegram" width="70" height="70">
                      <a href="https://t.me/nickgreat"> <p> <b>Telegram Profile</b> </p> </a>     
                  </td>
-                  <td align="center">
-                     <a href="discordapp.com/users/Nicolás#3597">
+                  <td align="center">                     
                         <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" alt="Discord" width="70" height="70">
-                        <p> <b>Discord Profile</b> </p> 
-                     </a>     
+                        <a href="discordapp.com/users/Nicolás#3597"> <p> <b>Discord Profile</b> </p> </a>                          
                  </td>                                
             </tr>
           </table>
