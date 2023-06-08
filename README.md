@@ -151,19 +151,19 @@ If you want to know more about  do not hesitate to contact me.
             <tr>
                <td align="center">
                      <img src="https://www.maiaxia.com/wp-content/uploads/2023/01/tendencias-de-aprendizaje-2023-aprendizaje-basado-en-cohortes.gif" alt="Portfolio" width="70" height="70">
-                     <a href="http://nicolascruz.jovinet.com"> <p> <b>My portfolio</b> </p> </a>     
+                     <a href="http://nicolascruz.jovinet.com" target="_blank"> <p> <b>My portfolio</b> </p> </a>     
                  </td> 
                <td align="center">                    
                   <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" width="70" height="70">
-                  <a href="https://www.linkedin.com/in/nicofj-cruz/"> <p> <b>LinkedIn Profile</b> </p> </a>              
+                  <a href="https://www.linkedin.com/in/nicofj-cruz/" target="_blank"> <p> <b>LinkedIn Profile</b> </p> </a>              
                 </td>       
                  <td align="center">
                      <img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif?cid=ecf05e47ycmqbjfd98vll28lev80hn8j5u5h4fbx8y066h9j&rid=giphy.gif" alt="Telegram" width="70" height="70">
-                     <a href="https://t.me/nickgreat"> <p> <b>Telegram Profile</b> </p> </a>     
+                     <a href="https://t.me/nickgreat" target="_blank"> <p> <b>Telegram Profile</b> </p> </a>     
                  </td>
                   <td align="center">                     
                         <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" alt="Discord" width="70" height="70">
-                        <a href="discordapp.com/users/Nicolás#3597"> <p> <b>Discord Profile</b> </p> </a>                          
+                        <a href="discordapp.com/users/Nicolás#3597" target="_blank"> <p> <b>Discord Profile</b> </p> </a>                          
                  </td>                                
             </tr>
           </table>
