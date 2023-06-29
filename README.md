@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQEk0pjvhiwmSg/profile-displaybackgroundimage-shrink_350_1400/0/1682981116075?e=1691020800&v=beta&t=r1ygrfO8xQuOpZMDj9fN9VbH00Uwc9OWsPGHMAkTlzY" alt="Portada">
 
-<h1 align="center">Hello there 👋, I'm Nicolás!</h1>
+<h1 align="center">Hello there 👋, I'm Nicolás Cruz!</h1>
 
 # <img src="https://icon-library.com/images/person-icon-gif/person-icon-gif-1.jpg" width="35"><b> About me </b> 
 
