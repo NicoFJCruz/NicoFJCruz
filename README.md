@@ -10,7 +10,7 @@ I graduated from Coding Bootcamp of Plataforma 5, where I completed over 800 hou
 
 I consider myself creative and passionate about technology. My objective is always to keep learning and advancing in the IT sector, and I am committed to offering innovative solutions all the challenges I face.
 
-If you want to know more about  do not hesitate to contact me.
+If you want to know more about do not hesitate to contact me.
 
 # <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif?cid=6c09b95273ph4qc007uru0mjrt5xny6r76o3kj1b5vnvsxmk&ep=v1_stickers_related&rid=giphy.gif" width="35"><b> Tech Stack </b> 
 
