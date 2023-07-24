@@ -4,7 +4,7 @@
 
 # <img src="https://icon-library.com/images/person-icon-gif/person-icon-gif-1.jpg" width="35"><b> About me </b> 
 
-<h3> I'm a Fullstack Developer from Argentina.</h3>
+<h3> I'm a Fullstack Developer from Argentina. </h3>
 
 I graduated from Coding Bootcamp of Plataforma 5, where I completed over 800 hours of intensive training and worked on challenging projets, such as an web ap to to a performance feedbach for GlobalsNews Group. Also, I have studies in Electromechanical Engineering. 
 
