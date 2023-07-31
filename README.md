@@ -21,7 +21,7 @@ If you want to know more about do not hesitate to contact me.
             <tr>
               <td align="center">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">
-                  <p> <b>JavaScript</b> </p>      
+                  <p><b>JavaScript</b></p>      
               </td>
               <td align="center">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="60" height="60">
