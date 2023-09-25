@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQEk0pjvhiwmSg/profile-displaybackgroundimage-shrink_350_1400/0/1682981116075?e=1691020800&v=beta&t=r1ygrfO8xQuOpZMDj9fN9VbH00Uwc9OWsPGHMAkTlzY" alt="Portada">
+<img src="https://cdn.discordapp.com/attachments/1118943467377279121/1155980292104912957/Nicolas_Cruz.png" alt="Portada">
 
 <h1 align="center">Hello there 👋, I'm Nicolás!</h1>
 
