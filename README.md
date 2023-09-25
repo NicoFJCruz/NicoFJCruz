@@ -1,5 +1,5 @@
 <img src="https://cdn.discordapp.com/attachments/1118943467377279121/1155980292104912957/Nicolas_Cruz.png" alt="Portada">
-[Portada](https://cdn.discordapp.com/attachments/1118943467377279121/1155980292104912957/Nicolas_Cruz.png)
+
 <h1 align="center">Hello there 👋, I'm Nicolás!</h1>
 
 # <img src="https://icon-library.com/images/person-icon-gif/person-icon-gif-1.jpg" width="35"><b> About me </b> 
