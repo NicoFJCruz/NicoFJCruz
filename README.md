@@ -6,7 +6,7 @@
 
 <h3> I'm a Fullstack Developer from Argentina. </h3>
 
-I graduated from Coding Bootcamp of Plataforma 5, where I completed over 800 hours of intensive training and worked on challenging projets, such as an web ap to to a performance feedbach for GlobalsNews Group. Also, I have studies in Electromechanical Engineering. 
+I graduated from Coding Bootcamp of Plataforma 5, where I completed over 800 hours of intensive training and worked on challenging projets, such as a web ap to a performance feedback for GlobalsNews Group. Also, I have studies in Electromechanical Engineering. 
 
 I consider myself creative and passionate about technology. My objective is always to keep learning and advancing in the IT sector, and I am committed to offering innovative solutions all the challenges I face
 
