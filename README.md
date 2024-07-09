@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1118943467377279121/1155980292104912957/Nicolas_Cruz.png" alt="Portada">
+<img src="images/portada.jpeg" alt="Portada">
 
 <h1 align="center">Hello there 👋, I'm Nicolás!</h1>
 
